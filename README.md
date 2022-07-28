@@ -6,7 +6,7 @@ Line Segment Detector (LSD)
 
 [LSD: a Line Segment Detector](http://www.ipol.im/pub/art/2012/gjmr-lsd/)
 
-[https://github.com/primetang/pylsd](https://github.com/primetang/pylsd)
+[https://github.com/primetang/pylsd](https://github.com/primetang/pylsd)  
 [https://github.com/opencv/opencv/blob/master/modules/imgproc/src/lsd.cpp](https://github.com/opencv/opencv/blob/master/modules/imgproc/src/lsd.cpp)
 
 #### License
